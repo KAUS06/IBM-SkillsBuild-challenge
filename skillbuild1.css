@@ -1,0 +1,73 @@
+.container{text-align: center;}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-flex;
+    padding-top: 80px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 80px;
+    background-color: #4caf50;
+    color:white;
+   }
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-flex;
+    padding-left: 34%;
+    
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-flex;
+    padding-left: 34%;
+    padding-right: 34%;
+    display: inline-block;
+   }
+
+.p2{
+    font-family: Arial;
+    display:inline-flex;
+    padding-left: 35%;
+    padding-right: 650px; 
+    line-height: 3ch;
+    display: inline-block;
+   
+}
+
+.pic1{
+width: 36%;
+height: 120px;
+padding:5px;
+border: 1px solid;
+}
+
+.container2{text-align: center;}
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4CAF50;
+     color: white;
+    padding: 15px 32px;
+    text-align:center;
+    text-decoration: none;
+    font-size: 16px;
+   cursor: pointer;
+   border-radius: 1ch;
+    
+  }
+
+  .p3{
+    font-family: Arial, Helvetica, sans-serif;
+  padding-left: 34%;
+    padding-right: 32%; 
+    line-height: 2.8ch;
+    display: inline-block;
+}
+
+.p4{
+    font-family: Arial, Helvetica, sans-serif;
+   padding-left: 34%;
+    padding-right: 32%; 
+    line-height: 2.8ch;
+    display: inline-block;
+}

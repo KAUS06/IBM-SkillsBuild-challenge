@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="skillbuild1.css">
+    <title>skillbuild1</title>
+</head>
+<body>
+    <div class="container">
+   <h1>SOMETHING BIG...</h1>
+</div>
+<div class="container1">
+   <h2>Hi Stranger,</h2>
+</div>
+<p class="p1"><b>Kielbasa venison ball tip shankle.Bpoudin proscuiutto landjaeger,
+    pancetta jowl turkey tri-tip porchetta beef pork loin drumstick.</b></p>
+<p class="p2"><b><img class="pic1" src="skillbuild1.jpg" style="float: left">Frankfurter short ribs kevin pig ribeye drumstick bacon kielbasa.
+    Pork loin brisket biltong ,pork bely filet mignon ribeye pig ground round porchett turducken turkey.
+    Pork belly beef ribs sausage ham hock,ham doner frankfuter pork chop tail meatball beef pig meatloaf short ribs shoulder .
+    Filet mignon ham hock kielbasa beef ribs shank .Vension swine beef ribs sausage pastrami shoulder.</b></p>
+<div class="container2">
+<button class="button"><b>Share the Awesomeness<b></button></div>
+<p class="p3">By the way,if you're wondering where you can find more of this fine meaty filler,visit  <span style="color:#4CAF50">Bacon ipsum</span> .</p>
+<p class="p4"><em>-Mr.Pen</em></p>
+</body>
+</html>
